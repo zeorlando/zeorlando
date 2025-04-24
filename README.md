@@ -1,10 +1,10 @@
 ### Olá! Me chamo José Orlando. 
 
-Sou Gerente de TI em uma escola e, na maior parte do tempo, atuo com suporte ao cliente e demandas de infraestrutura. No entanto, o que realmente gosto é de codar e resolver problemas do dia a dia usando programação.
+Sou Gerente de TI em uma escola, atuando com suporte ao cliente, administração dos sistemas de gestão e comunicação. No meu escopo de trabalho, estão incluídas demandas como a geração de relatórios para os setores financeiro, pedagógico e administrativo. Resolver problemas do dia a dia por meio da programação e tornar o trabalho das pessoas mais ágil é uma das minhas maiores satisfações.
 
-Busco aprimorar processos usando Python 🐍
+Tenho interesse em aprimorar processos utilizando Python 🐍
 
-Estudo Licenciatura em Ciências Naturais e Exatas / Bacharel em Ciência e Tecnologia na UFABC. 
+Atualmente, sou estudante da Licenciatura em Ciências Naturais e Exatas e do Bacharelado em Ciência e Tecnologia na UFABC.
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
